@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iU5mi3bue0wxvCh4TbN+7iMgv+GZpVOjw7UX4DtMJUanF8vHrnD927m8VfFIGdMmiUzcDlGs1ciJqVIWL/gYUQ==",
+  "dgSpecHash": "McDcEIjw/yx7oPgO5kl1hcitBqmtDj7TS16WJubkZ0Y7s8XUhtn5IWPnqvhUiLlHCfxLqtjMS2rhqlOCvSVHaQ==",
   "success": true,
-  "projectFilePath": "C:\\Repositories\\TechExcel-Implementing-automation-practices-using-Azure-OpenAI\\src\\ContosoSuitesWebAPI\\ContosoSuitesWebAPI.csproj",
+  "projectFilePath": "C:\\Repositories\\ContosoSuitesWebAPI\\ContosoSuitesWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhlokana\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
     "C:\\Users\\bhlokana\\.nuget\\packages\\azure.identity\\1.10.4\\azure.identity.1.10.4.nupkg.sha512",

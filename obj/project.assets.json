@@ -6996,11 +6996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Repositories\\TechExcel-Implementing-automation-practices-using-Azure-OpenAI\\src\\ContosoSuitesWebAPI\\ContosoSuitesWebAPI.csproj",
+      "projectUniqueName": "C:\\Repositories\\ContosoSuitesWebAPI\\ContosoSuitesWebAPI.csproj",
       "projectName": "ContosoSuitesWebAPI",
-      "projectPath": "c:\\Repositories\\TechExcel-Implementing-automation-practices-using-Azure-OpenAI\\src\\ContosoSuitesWebAPI\\ContosoSuitesWebAPI.csproj",
+      "projectPath": "C:\\Repositories\\ContosoSuitesWebAPI\\ContosoSuitesWebAPI.csproj",
       "packagesPath": "C:\\Users\\bhlokana\\.nuget\\packages\\",
-      "outputPath": "c:\\Repositories\\TechExcel-Implementing-automation-practices-using-Azure-OpenAI\\src\\ContosoSuitesWebAPI\\obj\\",
+      "outputPath": "C:\\Repositories\\ContosoSuitesWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
